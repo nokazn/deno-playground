@@ -6,3 +6,4 @@ export * as ioUtils from "https://deno.land/std@0.150.0/io/util.ts";
 export * as writers from "https://deno.land/std@0.150.0/io/writers.ts";
 export * as bufio from "https://deno.land/std@0.150.0/io/bufio.ts";
 export * as conversions from "https://deno.land/std@0.150.0/streams/conversion.ts";
+export * as assert from "https://deno.land/std@0.151.0/testing/asserts.ts";
